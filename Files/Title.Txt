@@ -1,0 +1,10 @@
+"Make Awesome Calc with Notepad | Awesome Calc v.1.0 By Hackoo"
+"Problems With Windows 10 CMD - New Changes"
+"Make Simple - But
+"How to make 'Images as Background' in CMD | CmdBkg - InsertBMP v2.0 | By ASD"
+"GUI Loading-Bar in CMD - Batch Loading Screen effect | Loading Function 1.0 By Gls"
+"[Batch App] ListC | A Fully-Working GUI File Explorer in Batch | By ASD"
+"Protect PC from - Ransomware virus 'WannaCry' plague | 'RansomWarn Program' | By Gls"
+"Survey Results of Rating the New Look Of Website - ToolsProgrammers.blogspot.com"
+"Properly 'Encode / Obfuscate' Your Code | ObfuscateBatch Plugin | By Gls"
+"Make Advanced 'MenuBar' in CMD with Mouse Hover Enabled | Simple & Easy | MenuBar v.2.0 By Gls"
